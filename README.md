@@ -10,6 +10,6 @@
 ### - Création d'un repo associé pour mettre en ligne tous les travaux en cours
 
 * un dossier page de connexion dans lequel se trouve 
-* * un fichier pour les user stories
-* * un fichier pour le diagramme de cas d'usage
-* * 2 dossier de maquettes (wireframes mobile et web
+  * _un fichier pour les user stories_
+  * _un fichier pour le diagramme de cas d'usage_
+  * _2 dossier de maquettes (wireframes mobile et web_
