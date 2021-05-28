@@ -1,5 +1,15 @@
 # oc_p3_project
-Mise en place des éléments pour préparer la réunion client
+## Mise en place des éléments pour préparer la réunion client
 
-- Création d'un projet sur GitHub pour lister les actions à mettre en place 
-- Création d'un repo associé pour mettre en ligne tous les travaux en cours
+### - Création d'un projet sur GitHub pour lister les actions à mettre en place 
+
+* 3 issues pour la page de connexion
+* 2 issues pour la page de calendrier
+
+
+### - Création d'un repo associé pour mettre en ligne tous les travaux en cours
+
+* un dossier page de connexion dans lequel se trouve 
+* * un fichier pour les user stories
+* * un fichier pour le diagramme de cas d'usage
+* * 2 dossier de maquettes (wireframes mobile et web
