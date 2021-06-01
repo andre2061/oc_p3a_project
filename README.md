@@ -19,3 +19,8 @@
   * _un fichier pour les user stories_ - user stories 5 à 13
   * _un fichier pour le diagramme de cas d'usage_
   * _2 dossiers de maquettes (wireframes mobile et web)_
+
+* un dossier page de chat dans lequel se trouve 
+  * _un fichier pour les user stories_ - user stories 14 à 20
+  * _un fichier pour le diagramme de cas d'usage_
+  * _2 dossiers de maquettes (wireframes mobile et web)_
