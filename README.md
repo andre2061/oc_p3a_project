@@ -5,6 +5,7 @@
 
 * 5 issues pour la page de connexion
 * 3 issues pour la page Tableau se Bord
+* 7 issues pour la page de chat
 * 2 issues pour la page de calendrier
 
 
