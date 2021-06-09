@@ -15,27 +15,27 @@
 * un dossier page de connexion dans lequel se trouve 
   * _un fichier pour les user stories_ - user stories 1 à 4
   * _un fichier pour le diagramme de cas d'usage_
-  * _2 dossiers de maquettes (wireframes mobile et web)_
+  * _2 fichiers wireframes (mobile et web)_
 
 * un dossier page tableau de bord dans lequel se trouve 
   * _un fichier pour les user stories_ - user stories 5 à 13
   * _un fichier pour le diagramme de cas d'usage_
-  * _2 dossiers de maquettes (wireframes mobile et web)_
+  * _2 fichiers wireframes (mobile et web)_
 
 * un dossier page de chat dans lequel se trouve 
   * _un fichier pour les user stories_ - user stories 14 à 20
   * _un fichier pour le diagramme de cas d'usage_
-  * _2 dossiers de maquettes (wireframes mobile et web)_
+  * _2 fichiers wireframes (mobile et web)_
 
 * un dossier page de calendrier dans lequel se trouve 
   * _un fichier pour les user stories_ - user stories 21 à 29
   * _un fichier pour le diagramme de cas d'usage_
-  * _2 dossiers de maquettes (wireframes mobile et web)_
+  * _2 fichiers wireframes (mobile et web)_
 
 * un dossier page de gestion des taches dans lequel se trouve 
   * _un fichier pour les user stories_ - user stories 30 à 35
   * _un fichier pour le diagramme de cas d'usage_
-  * _2 dossiers de maquettes (wireframes mobile et web)_
+  * _2 fichiers wireframes (mobile et web)_
 
 * un fichier pour présenter le prototype final mobile (DesignFinalMobile)
 
