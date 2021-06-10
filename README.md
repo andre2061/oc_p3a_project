@@ -40,3 +40,9 @@
 * un fichier pour présenter le prototype final mobile (DesignFinalMobile)
 
 * un fichier pour présenter le prototype final web (DesignFinalWeb)
+
+* un fichier de présentation.pptx
+
+### - Pour la présentation
+
+Téléchargez l'intégralité du repo, puis lancez la présentation. 
